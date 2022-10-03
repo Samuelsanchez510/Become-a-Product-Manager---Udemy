@@ -1,0 +1,3 @@
+- Understand the varying role of a Product Manager through different types and sizes of companies
+- Understand the Product Lifecycle and how it applies to every product
+- Know how to identify ideas worth pursuing and dedicating resources to
